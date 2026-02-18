@@ -10,7 +10,7 @@ tags:
 description: Hi, I'm Joseph. I have recently moved to London from New Zealand, and I'm looking for a job in web development.
 ---
 
-![me](/src/assets/images/me.jpeg)
+![me](../../../assets/images/me.jpeg)
 
 ## Hi, I'm Joseph.
 
