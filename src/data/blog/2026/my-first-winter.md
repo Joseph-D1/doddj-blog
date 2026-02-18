@@ -11,7 +11,7 @@ tags:
 description: Despite being born here in 1999, this past season has been my first real experience of a northern hemisphere winter, as well as my first ever experience of moving my life to the other side of the world.
 ---
 
-![image](/src/assets/images/tube.jpeg)
+![image](../../../assets/images/tube.jpeg)
 
 This past year has been a formative one for me.
 
